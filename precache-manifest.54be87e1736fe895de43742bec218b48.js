@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c4f85d62bae50a0b6d73",
+    "revision": "51765f62dcbd6f5ae4e7",
     "url": "/EvaBotApp/static/css/main.1a693a22.chunk.css"
   },
   {
-    "revision": "c4f85d62bae50a0b6d73",
-    "url": "/EvaBotApp/static/js/main.67c0bd72.chunk.js"
+    "revision": "51765f62dcbd6f5ae4e7",
+    "url": "/EvaBotApp/static/js/main.72c75705.chunk.js"
   },
   {
     "revision": "f55d19da24accba29ee4",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/EvaBotApp/static/media/persik.695e98f0.png"
   },
   {
-    "revision": "fb5e9c777535db32112e309719bf4e00",
+    "revision": "87441c150d6cfb455d9f4ecda07fc0ce",
     "url": "/EvaBotApp/index.html"
   }
 ];
