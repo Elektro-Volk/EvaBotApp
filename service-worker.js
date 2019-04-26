@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/EvaBotApp/precache-manifest.dfddfb903cf077bf0836d8e46ff2bbc7.js"
+  "/EvaBotApp/precache-manifest.ae9bc87c85943d16f4f83a6777e8d301.js"
 );
 
 workbox.clientsClaim();
