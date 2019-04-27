@@ -1,16 +1,14 @@
 {
-  "main.css": "/EvaBotApp/static/css/main.1a693a22.chunk.css",
-  "main.js": "/EvaBotApp/static/js/main.72c75705.chunk.js",
-  "main.js.map": "/EvaBotApp/static/js/main.72c75705.chunk.js.map",
+  "main.js": "/EvaBotApp/static/js/main.e27f1141.chunk.js",
+  "main.js.map": "/EvaBotApp/static/js/main.e27f1141.chunk.js.map",
   "runtime~main.js": "/EvaBotApp/static/js/runtime~main.d8387a40.js",
   "runtime~main.js.map": "/EvaBotApp/static/js/runtime~main.d8387a40.js.map",
   "static/css/2.6214b97d.chunk.css": "/EvaBotApp/static/css/2.6214b97d.chunk.css",
-  "static/js/2.cf7a565a.chunk.js": "/EvaBotApp/static/js/2.cf7a565a.chunk.js",
-  "static/js/2.cf7a565a.chunk.js.map": "/EvaBotApp/static/js/2.cf7a565a.chunk.js.map",
+  "static/js/2.cfca3bdb.chunk.js": "/EvaBotApp/static/js/2.cfca3bdb.chunk.js",
+  "static/js/2.cfca3bdb.chunk.js.map": "/EvaBotApp/static/js/2.cfca3bdb.chunk.js.map",
   "index.html": "/EvaBotApp/index.html",
-  "precache-manifest.54be87e1736fe895de43742bec218b48.js": "/EvaBotApp/precache-manifest.54be87e1736fe895de43742bec218b48.js",
+  "precache-manifest.6a0f61195bb23ec9df493352a0804e02.js": "/EvaBotApp/precache-manifest.6a0f61195bb23ec9df493352a0804e02.js",
   "service-worker.js": "/EvaBotApp/service-worker.js",
   "static/css/2.6214b97d.chunk.css.map": "/EvaBotApp/static/css/2.6214b97d.chunk.css.map",
-  "static/css/main.1a693a22.chunk.css.map": "/EvaBotApp/static/css/main.1a693a22.chunk.css.map",
   "static/media/persik.png": "/EvaBotApp/static/media/persik.695e98f0.png"
 }
